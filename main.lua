@@ -1,4 +1,4 @@
-lanjutkan -- // SERVICES
+-- // SERVICES
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
