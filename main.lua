@@ -1798,7 +1798,7 @@ ECONOMIC IMPACT:
 │ Security Remediation Cost:      $%s+ (estimated)                            │
 │ IP Valuation at Risk:           $%s+ (game engine/IP)                       │
 │ User Trust Impact:              CRITICAL - player exodus observed           │
-│ Stock Impact:                   15-25% projected decline                    │
+│ Stock Impact:                   15-25%% projected decline                    │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ================================================================================
@@ -2326,4 +2326,4 @@ task.spawn(function()
 end)
 
 task.wait(1.5)
-print("RatHub Loaded"))
+print("RatHub Loaded") -- Fixed: removed extra closing parenthesis
